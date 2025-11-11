@@ -1,8 +1,7 @@
 {
   "build": {
     "features": [
-      "updater",
-      "license"
+      "updater"
     ]
   },
   "app": {
