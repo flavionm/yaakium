@@ -7,16 +7,7 @@
   "app": {
     "security": {
       "capabilities": [
-        "default",
-        {
-          "identifier": "release",
-          "windows": [
-            "*"
-          ],
-          "permissions": [
-            "yaak-license:default"
-          ]
-        }
+        "default"
       ]
     }
   },
